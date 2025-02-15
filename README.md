@@ -1,0 +1,1 @@
+# A project for learning both Zig and game development

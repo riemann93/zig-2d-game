@@ -1,0 +1,1 @@
+# download the SDL library from https://github.com/libsdl-org/SDL/releases. Get the devel-x.xx.x-VC.zip version.
