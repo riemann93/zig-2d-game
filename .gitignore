@@ -1,5 +1,6 @@
 libs/SDL/
 .vscode/
 .zig-cache/
+zig-cache/
 build.zig.zon
 zig-out/

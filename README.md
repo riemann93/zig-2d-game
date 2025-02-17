@@ -1,7 +1,10 @@
 # A project for learning both Zig and game development
 
 ## vscode configuration:
-
+Open the Command Palette (Ctrl + Shift + P).
+Search for and select:
+"Tasks: Open User Tasks" for tasks.json.
+"Debug: Open launch.json" for launch.json.
 ### launch.json:
 {
     // Use IntelliSense to learn about possible attributes.
@@ -42,3 +45,8 @@
         }
     ]
 }
+
+### Debugger
+VSCode debugger:
+Use MSYS MINGW64 to install gdb using the following command:
+pacman -S mingw-w64-x86_64-gdb
